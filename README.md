@@ -1,3 +1,5 @@
+[![Star on GitHub](https://img.shields.io/github/stars/kauemurakami/flutter_AR.svg?style=flat&logo=github&colorB=deeppink&label=stars)](https://github.com/kauemurakami/flutter_AR) 
+
 # flutter_ar
 
 A new Flutter project.
